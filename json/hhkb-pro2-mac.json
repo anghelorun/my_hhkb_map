@@ -1,0 +1,195 @@
+[
+  {
+    "name": "HHKB Pro2 EN MAC",
+    "notes": "HHKB"
+  },
+  [
+    {
+      "c": "#999696",
+      "a": 2
+    },
+    "Esc\n\n\n\nPower",
+    {
+      "c": "#cccccc",
+      "a": 0,
+      "fa": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5
+      ]
+    },
+    "!\n\n\n\nF1\n\n1\n\n¡\n⁄",
+    "@\n\n\n\nF2\n\n2\n\n™\n∞",
+    "#\n\n\n\nF3\n\n3\n\n£\n‹",
+    "$\n\n\n\nF4\n\n4\n\n¢\n›",
+    "%\n\n\n\nF5\n\n5\n\n€\nﬁ",
+    "^\n\n\n\nF6\n\n6\n\n§\nﬂ",
+    "&\n\n\n\nF7\n\n7\n\n¶\n‡",
+    "*\n\n\n\nF8\n\n8\n\n•\n°",
+    "(\n\n\n\nF9\n\n9\n\nª\n·",
+    ")\n\n\n\nF10\n\n0\n\nº\n‚",
+    "_\n\n\n\nF11\n\n-\n\n–\n—",
+    "+\n\n\n\nF12\n\n=\n\n≠\n±",
+    "|\n\n\n\nIns\n\n\\\n\n«\n»",
+    "~\n\n\n\nDel\n\n`"
+  ],
+  [
+    {
+      "c": "#999696",
+      "a": 2,
+      "fa": [
+        4
+      ],
+      "w": 1.5
+    },
+    "Tab\n\n\n\nCaps",
+    {
+      "c": "#cccccc",
+      "a": 4,
+      "fa": [
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5
+      ]
+    },
+    "\n\n\n\n\n\nA\n\nœ\nŒ",
+    "\n\n\n\n\n\nW\n\n∑\n„",
+    "\n\n\n\n\n\nE\n\n´",
+    "\n\n\n\n\n\nR\n\n®\n‰",
+    "\n\n\n\n\n\nT\n\n†\nˇ",
+    "\n\n\n\n\n\nY\n\n¥\nÁ",
+    "\n\n\n\n\n\nU\n\n¨",
+    {
+      "a": 0
+    },
+    "\n\n\n\nPsc/sqr\n\nI\n\nˆ",
+    "\n\n\n\nSrcLk\n\nO\n\nø\nØ",
+    "\n\n\n\nPus/Brk\n\nP\n\nπ\n∏",
+    {
+      "fa": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5
+      ]
+    },
+    "{\n\n\n\nUp\n\n[\n\n“\n”",
+    {
+      "a": 4
+    },
+    "}\n\n\n\n\n\n]\n\n‘\n’",
+    {
+      "c": "#999696",
+      "a": 2,
+      "w": 1.5
+    },
+    "Delete\n\n\n\nBS\nClear"
+  ],
+  [
+    {
+      "a": 6,
+      "w": 1.75
+    },
+    "Control",
+    {
+      "c": "#cccccc",
+      "a": 0
+    },
+    "\n\n\n\nVol_dn\n\nA\n\nå\nÅ",
+    "\n\n\n\nVol_up\n\nS\n\nß\nÍ",
+    "\n\n\n\nMute\n\nD\n\n∂\nÎ",
+    "\n\n\n\nEject\n\nF\n\nƒ\nÏ",
+    {
+      "a": 4
+    },
+    "\n\n\n\n\n\nG\n\n©\n˝",
+    {
+      "a": 0
+    },
+    "\n\n\n\n*\n\nH\n\n˙\nÓ",
+    "\n\n\n\n/\n\nJ\n\n∆\nÔ",
+    "\n\n\n\nHome\n\nK\n\n˚\n",
+    "\n\n\n\nPgUp\n\nL\n\n¬\nÒ",
+    ":\n\n\n\nLeft\n\n;\n\n…\nÚ",
+    "\"\n\n\n\nRight\n\n'\n\næ\nÆ",
+    {
+      "c": "#999696",
+      "a": 2,
+      "w": 2.25
+    },
+    "Return\n\n\n\n\nEnter"
+  ],
+  [
+    {
+      "a": 6,
+      "w": 2.25
+    },
+    "Shift",
+    {
+      "c": "#cccccc",
+      "a": 4
+    },
+    "\n\n\n\n\n\nZ\n\nΩ\n¸",
+    "\n\n\n\n\n\nX\n\n≈\n˛",
+    "\n\n\n\n\n\nC\n\nç\nÇ",
+    "\n\n\n\n\n\nV\n\n√\n◊",
+    "\n\n\n\n\n\nB\n\n∫\nı",
+    {
+      "a": 0
+    },
+    "\n\n\n\n+\n\nN\n\n˜",
+    "\n\n\n\n-\n\nM\n\nµ\nÂ",
+    "<\n\n\n\nEnd\n\n,\n\n≤\n¯",
+    ">\n\n\n\nPgDn\n\n.\n\n≥\n˘",
+    "?\n\n\n\nDown\n\n/\n\n÷\n¿",
+    {
+      "c": "#999696",
+      "a": 6,
+      "w": 1.75
+    },
+    "Shift",
+    "Fn"
+  ],
+  [
+    {
+      "x": 1.5,
+      "a": 4,
+      "f": 3
+    },
+    "\n\nOpt\n\n\n\nAlt",
+    {
+      "f": 3,
+      "w": 1.5
+    },
+    "\n\nEsp\n\n\n\n◊",
+    {
+      "c": "#cccccc",
+      "a": 7,
+      "w": 6
+    },
+    "",
+    {
+      "c": "#999696",
+      "a": 0,
+      "f": 3,
+      "w": 1.5
+    },
+    "\n\nEsp\n\nStop\n\n◊",
+    {
+      "a": 4,
+      "f": 3
+    },
+    "\n\nOpt\n\n\n\nAlt"
+  ]
+]
